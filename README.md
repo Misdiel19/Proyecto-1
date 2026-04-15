@@ -1,4 +1,4 @@
-# Proyecto-1
+# Análisis de Éxito de Videojuegos – Ice Store 
 En este proyecto analicé datos históricos de ventas de videojuegos de la tienda online Ice, que comercializa títulos a nivel global. El dataset incluía información sobre reseñas de usuarios y críticos, géneros, plataformas (Xbox, PlayStation, entre otras) y clasificaciones por edad.
 
 El objetivo fue identificar patrones y variables clave que influyen en el éxito comercial de un videojuego, con el propósito de detectar proyectos prometedores y generar insights útiles para la planeación de campañas publicitarias.
